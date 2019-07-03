@@ -1,18 +1,9 @@
-
 remote_theme: broccolini/athena
-
-title: Athena Jekyll Theme
-
-description: A simple and elegant theme for Jekyll and GitHub Pages.
-
-github_repo: athena # the GitHub repo name for your project
-
+title: A Stastic test to admin a jekyll site
+description: 'Admin your Jekyll sites on Github pages with Stastic '
+github_repo: athena
 github_username: broccolini
-
-social_link: twitter # twitter (default), instagram, medium, or dribbble
-
+social_link: twitter
 social_username: broccolini
-
-theme_color: light # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-
-baseurl: "/boorish_miller"
+theme_color: light
+baseurl: /boorish_miller
