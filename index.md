@@ -1,9 +1,6 @@
 ---
-
 layout: home
-
-title: Home
-
+title: ''
 permalink: /
 
 ---
